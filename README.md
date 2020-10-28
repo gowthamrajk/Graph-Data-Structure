@@ -27,20 +27,4 @@ This module has some Advanced concepts and Programs related to Graph Theory in J
 20) Hopcroft-karp Algorithm for Maximum Matching
 
 # Terms used in Graph Theory:
-Adjacency
-Path
-Edges
-Vertices
-Connected Graph
-Directed Graph
-Non-COnnected Graph
-Non-Directed Graph
-Weighted Graph
-un-Weighted Graph
-Adjaceny Matrix
-Adjacency List
-MST-Minimum Spanning Tree
-STL-Standard Template Library
-Maximum Flow
-Minimum Flow
-Graph Colouring
+Adjacency, Path, Edges, Vertices, Connected Graph, Directed Graph, Non-COnnected Graph, Non-Directed Graph, Weighted Graph, un-Weighted Graph, Adjaceny Matrix, Adjacency List, MST-Minimum Spanning Tree, STL-Standard Template Library, Maximum Flow, Minimum Flow, Graph Colouring
